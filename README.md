@@ -1,4 +1,4 @@
-***DishDetect: What’s on my plate? – Co-Designing A Mobile App for Clockwise Food Description*** 
+#DishDetect: What’s on my plate? – Co-Designing A Mobile App for Clockwise Food Description
 [📄 Read the full paper (PDF)](https://dl.acm.org/doi/full/10.1145/3706599.3719689)
 ## Introduction
 
