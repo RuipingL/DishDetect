@@ -25,7 +25,7 @@ Ensure your system has the latest version of Python installed. You will also nee
 
 ```
 git clone https://github.com/RuipingL/DishDetect.git
-cd Whats on my Plate
+cd DishDetect
 ```
 
 ### Install Dependencies
